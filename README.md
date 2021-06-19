@@ -19,4 +19,5 @@
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="200" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="200" alt="css3 icon"/>
+<br><br>
 <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/opensource.svg" height="50" alt="opensource icon"/>
