@@ -1,4 +1,4 @@
-<h1 align="center">👋 Connect w/ me:
+<h1 align="center">👋 Conecta, manda job!
   <p>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
@@ -21,7 +21,7 @@
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="125" alt="html5 icon"/>
 <img align="right" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="125" alt="css3 icon"/>
 
-<h2 align="center">📝 For more info:</h2> 
+<h2 align="center">📝 Canal de tickets:</h2> 
 
-Please, create an
+LIVRE DE USO
 [issue](https://github.com/gu-lak/introduction/issues).
