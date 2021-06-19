@@ -18,6 +18,6 @@
   </p>
 </h1>
 
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="125" alt="html5 icon"/>
 <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/opensource.svg" height="50" alt="opensource icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="125" alt="html5 icon"/>
 <img align="right" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="125" alt="css3 icon"/>
