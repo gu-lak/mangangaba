@@ -9,9 +9,6 @@
 <a href="mailto:gulak@alunos.utfpr.edu.br">
   <img src="https://img.shields.io/badge/-gulak@alunos.utfpr.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
       
-<a href="mailto:igorgulak@icloud.com">
-  <img src="https://img.shields.io/badge/-igorgulak@icloud.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 <a href="https://instagram.com/ohgulak">
   <img src="https://img.shields.io/badge/-@ohgulak-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
@@ -22,6 +19,5 @@
 </h1>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="125" alt="html5 icon"/>
+
 <img align="right" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="125" alt="css3 icon"/>
-
-
