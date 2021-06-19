@@ -8,6 +8,9 @@
 
 <a href="mailto:gulak@alunos.utfpr.edu.br">
   <img src="https://img.shields.io/badge/-gulak@alunos.utfpr.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+      
+<a href="mailto:igorgulak@icloud.com">
+  <img src="https://img.shields.io/badge/-igorgulak@icloud.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <a href="https://instagram.com/ohgulak">
   <img src="https://img.shields.io/badge/-@ohgulak-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
