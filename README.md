@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
   </p>
 </h1>
-
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="200" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="200" alt="css3 icon"/>
 <br><br><br><br><br><br><br><br><br>
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
 <img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/opensource.svg" height="50" alt="opensource icon"/>
