@@ -529,10 +529,6 @@ p {
 	font-size: 2rem;
 	padding: 1.5rem;
 }
-
-#contact .left .contact-info ul li:hover {
-	background-color: var(--primary-color);
-}
 #contact .left .contact-info ul li:hover .text {
 	color: white;
 }
