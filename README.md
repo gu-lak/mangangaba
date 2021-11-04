@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>
-    👋  <br>
+    🐻 <br>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
@@ -18,8 +18,6 @@
 
 </h1>
     
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE) 
-
   <h4>1. Termos</h4>
     Ao acessar ao site, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo 
     cumprimento de todas as leis locais aplicáveis. Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os 
@@ -57,6 +55,8 @@
 
 Estes termos e condições são regidos e interpretados de acordo com as leis de segurança do estado, no Brasil.
     
+  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE) 
+  
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
