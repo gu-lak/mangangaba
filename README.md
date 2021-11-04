@@ -27,16 +27,15 @@
 
   <h4>2. Uso de Licença</h4>
     É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site , apenas para visualização
-    transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode: 
-
-    modificar ou copiar os materiais; 
+    transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode:
+    <p>modificar ou copiar os materiais; 
     usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
     tentar descompilar ou fazer engenharia reversa de qualquer software contido no site ; 
     remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
     transferir os materiais para outra pessoa ou 'espelhe' os materiais em qualquer outro servidor.
     Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por a qualquer momento. Ao
     encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em
-    formato eletrónico ou impresso.
+    formato eletrónico ou impresso.</p>
 
   <h4>3. Isenção de responsabilidade</h4>
     Os materiais no site da são fornecidos 'como estão'. não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as
