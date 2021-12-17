@@ -1,0 +1,34 @@
+body{
+	width: 100%;
+	height: 100vh;
+	background-color: #f1f1f1;
+	margin: 0;
+	padding: 0;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	font-family: sans-serif;
+}
+.main{
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+}
+.main h1{
+	text-align: center;
+	font-size: 220px;
+	margin-top: 200px;
+	margin-bottom: 30px;
+}
+.main h3{
+	font-size: 50px;
+	margin: 10px auto;
+}
+.main a{
+	text-decoration: none;
+	color: red;
+}
