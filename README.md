@@ -20,21 +20,28 @@
     
 ## 1. Termos de Uso
 
-Ao acessar ao site, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as leis locais aplicáveis Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos pelas leis de direitos autorais e marcas comerciais aplicáveis.
+`Ao acessar ao site, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as
+leis locais aplicáveis Se você não concordar com algum desses termos, está proibido de usar ou acessar este site. Os materiais contidos neste site são protegidos
+pelas leis de direitos autorais e marcas comerciais aplicáveis.`
 
 ## 2. Licença de Uso
-É concedida permissão para baixar temporariamente uma cópia dos materiais, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode: 
-
-modificar ou copiar os materiais;
-`usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
-tentar descompilar ou fazer engenharia reversa de qualquer software contido no site;`
-`ou remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; 
-transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor.`
-`Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.`
+`É concedida permissão para baixar temporariamente uma cópia dos materiais, apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma
+licença, não uma transferência de título e, sob esta licença, você não pode: modificar ou copiar os materiais; usar os materiais para qualquer finalidade comercial
+ou para exibição pública (comercial ou não comercial); tentar descompilar ou fazer engenharia reversa de qualquer software contido no site; ou remover quaisquer 
+direitos autorais ou outras notações de propriedade dos materiais; transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor.
+Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida a qualquer momento. Ao encerrar a visualização desses
+materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.`
 
 ## 3. Isenção de responsabilidade
+`Os materiais no site ‘como estão’. Não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem
+limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de
+direitos. Além disso, o site não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu
+site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.`Os materiais no site ‘como estão’. Não oferece garantias, expressas ou
+implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a 
+um fim específico ou não violação de propriedade intelectual ou outra violação de direitos. Os materiais no site ‘como estão’. Não oferece garantias, expressas ou
+implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a
+um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.`
 Os materiais no site ‘como estão’. Não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.
-`Além disso, o site não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.`
     
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE) 
   
