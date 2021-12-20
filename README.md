@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>
-    🐻 <br>
+   Página-estática mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, referências de linguagens para desenvolvedores, web-designers, ou afins.<br>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
