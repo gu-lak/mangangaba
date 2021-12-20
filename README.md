@@ -43,7 +43,7 @@ implícitas, e, por este meio, isenta e nega todas as outras garantias, incluind
 um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.`
     
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/2ba26562-2abe-4a49-8011-6218d5060625/deploy-status)](https://app.netlify.com/sites/mangangaba/deploys)
+  
   
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
