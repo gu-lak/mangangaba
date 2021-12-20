@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p> Mangangaba.<br>
+  <p>MNGNGB Std.<br>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
@@ -16,8 +16,10 @@
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 
 </h1>
+    
 Página-estática mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, referências de linguagens para desenvolvedores, web
 designers e engenheiro de software.
+    
 ## 1. Termos de Uso
 
 `Ao acessar ao site, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as
