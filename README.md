@@ -1,6 +1,5 @@
 <h1 align="center">
-  <p>
-   Página-estática mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, referências de linguagens para desenvolvedores, web-designers, ou afins.<br>
+  <p> Mangangaba.<br>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
@@ -17,7 +16,8 @@
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 
 </h1>
-    
+Página-estática mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, referências de linguagens para desenvolvedores, web
+designers e engenheiro de software.
 ## 1. Termos de Uso
 
 `Ao acessar ao site, concorda em cumprir estes termos de serviço, todas as leis e regulamentos aplicáveis e concorda que é responsável pelo cumprimento de todas as
@@ -40,7 +40,8 @@ site ou de outra forma relacionado a esses materiais ou em sites vinculados a es
 implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a 
 um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.`
     
-  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE) 
+  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/2ba26562-2abe-4a49-8011-6218d5060625/deploy-status)](https://app.netlify.com/sites/mangangaba/deploys)
   
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
