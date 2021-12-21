@@ -1,5 +1,5 @@
 <h1 align="center">
-  <p>MNGNGB<br>
+  <p>Mangangaba Studio.<br>
     <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
