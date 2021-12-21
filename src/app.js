@@ -4,8 +4,6 @@ const closeNavButton = document.querySelector('#nav-content .close-btn');
 const navLinks = document.querySelectorAll('#nav-content nav ul li a');
 const scrollButton = document.querySelector(".scroll-top");
 
-// scroll TOP Button Events
-
 if(scrollButton){
   window.addEventListener('scroll', ()=> {
     if(pageYOffset > (window.innerHeight * 1.2)){
@@ -19,7 +17,6 @@ if(scrollButton){
   });
 }
 
-// Hamburger Menu events
 hamburgerMenu.addEventListener('click', ()=>{
   navContent.classList.add('show');
   document.body.style.overflow="hidden";
