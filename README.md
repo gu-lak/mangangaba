@@ -17,8 +17,8 @@
 
 </h1>
     
-Página-estática mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, referências de linguagens para desenvolvedores, web
-designers e engenheiro de software.
+Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
+designers e referências em engenharia de software.
     
 ## 1. Termos de Uso
 
@@ -43,8 +43,7 @@ implícitas, e, por este meio, isenta e nega todas as outras garantias, incluind
 um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.`
     
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
-  
-  
+    
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
