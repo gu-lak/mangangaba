@@ -38,9 +38,7 @@ materiais ou após o término desta licença, você deve apagar todos os materia
 `Os materiais no site ‘como estão’. Não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem
 limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de
 direitos. Além disso, o site não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu
-site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site. Os materiais no site ‘como estão’. Não oferece garantias, expressas ou
-implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a 
-um fim específico ou não violação de propriedade intelectual ou outra violação de direitos.`
+site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.`
     
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
     
