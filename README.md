@@ -1,6 +1,7 @@
-<h1 align="center">
-  <p>Mangangaba Software.<br>
-    <a href="https://twitter.com/intent/follow?screen_name=gul___99">
+<br/>
+<p align="center">
+  <h3 align="center">Mangangaba Software</h3>
+ <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
       <a href="https://linkedin.com/in/igoreduardogulak">
@@ -14,11 +15,37 @@
 
 <a href="https://www.behance.net/gulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+  <p align="center">
+</h3>
 
-</h1>
-    
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
+
+<br/>
+  <br/>
+    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/gu-lak/mangangaba">Plataforma</a>
+  </p>
+</p>
+
+![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks]
+(https://img.shields.io/github/forks/gulak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) 
+[Issues](https://img.shields.io/github/issues/gu-lak/mangangaba) ![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-
+lak/bio/blob/main/LICENSE)
+
+## Mesa de conteúdo
+
+* [Interpretação](#1-interpretacao)
+* [Definições](#2-definicoes)
+* [Reconhecimento](#3-reconhecimento)
+* [Links](#31-links-para-outros-sites)
+* [Terminais](#4-terminação)
+* [Responsabilidade](#5-isenção-de-responsabilidade)
+* [Separabilidade](#6-divisibilidade)
+* [Renúncia](#7-renúncia)
+* [Comunicação](#8-contate-nos)
     
 Termos e Condições – Última atualização: 26 de março de 2022
 
@@ -124,14 +151,13 @@ de uma parte de exercer tal direito ou exigir tal desempenho a qualquer momento 
 qualquer violação posterior. Ao continuar a acessar ou usar nosso serviço após essas revisões entrarem em vigor, você concorda em ficar vinculado aos 
 termos revisados. Se você não concordar com os novos termos, no todo ou em parte, pare de usar o site e o serviço.`
 
-Contate-nos
+## 8. Contate-nos
     
 `Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
+[Mangangaba](https://github.com/Mangangaba) - *Mangangaba Software*
+* **Igor Eduardo Gulak** - *Software Engineer* 
 mangangabasoftware@gmail.com
-mangangaba.com.br
-@mngngb_
-    
-  [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
+http://mangangaba.com.br
     
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
