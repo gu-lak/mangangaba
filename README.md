@@ -20,8 +20,7 @@
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
     
-`Termos e Condições`
-`Última atualização: 26 de março de 2022`
+Termos e Condições – Última atualização: 26 de março de 2022
 
 `Por favor, leia estes termos e condições cuidadosamente antes de usar nosso site.`
 
@@ -32,7 +31,7 @@ independentemente de aparecerem no singular ou no plural.`
 
 ## 2. Definições
     
-Para efeitos destes termos e condições.
+`Para efeitos destes termos e condições.`
 
 `Afiliada significa uma entidade que controla, é controlada ou está sob controle comum com uma parte, onde "controle" significa propriedade de 50% ou mais
 das ações, participação acionária ou outros valores mobiliários com direito a voto para eleição de diretores ou outra autoridade administrativa.`
@@ -88,7 +87,7 @@ violar estes termos e condições.`
 
 `Após a rescisão, seu direito de usar o serviço cessará imediatamente.`
 
-## 5. Isenção de responsabilidade "COMO ESTÁ" e "CONFORME DISPONÍVEL"
+## 5. Isenção de responsabilidade
 
 `O serviço é prestado a você "COMO ESTÁ" e "CONFORME DISPONÍVEL" e com todas as falhas e defeitos sem garantia de qualquer tipo. Na extensão máxima
 permitida pela lei aplicável, a empresa, em seu próprio nome e em nome de suas afiliadas e seus respectivos licenciadores e prestadores de serviços,
@@ -115,22 +114,22 @@ outras leis locais, estaduais, nacionais ou internacionais.`
 `Se você tiver alguma dúvida ou disputa sobre o serviço, você concorda em primeiro tentar resolver a disputa informalmente entrando em contato com a
 empresa.`
 
-## Divisibilidade
+## 6. Divisibilidade
 `Se qualquer disposição destes termos for considerada inexequível ou inválida, tal disposição será alterada e interpretada para atingir os objetivos de tal
-disposição na medida do possível sob a lei aplicável e as disposições restantes continuarão em pleno vigor e efeito.
+disposição na medida do possível sob a lei aplicável e as disposições restantes continuarão em pleno vigor e efeito.`
 
-## Renúncia
+## 7. Renúncia
 `Exceto conforme previsto neste documento, a falha em exercer um direito ou exigir o cumprimento de uma obrigação sob estes Termos não afetará a capacidade
 de uma parte de exercer tal direito ou exigir tal desempenho a qualquer momento posterior, nem a renúncia de uma violação constituirá uma renúncia de
 qualquer violação posterior. Ao continuar a acessar ou usar nosso serviço após essas revisões entrarem em vigor, você concorda em ficar vinculado aos 
 termos revisados. Se você não concordar com os novos termos, no todo ou em parte, pare de usar o site e o serviço.`
 
-## Contate-nos
+Contate-nos
     
-`Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:
+`Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
 mangangabasoftware@gmail.com
 mangangaba.com.br
-@mngngb_`
+@mngngb_
     
   [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/gu-lak/bio/blob/main/LICENSE)
     
