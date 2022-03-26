@@ -1,23 +1,17 @@
 <head>
-<p align="center">
+<p align="left">
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
-
-  <h1 align="center">Mangangaba Software</h3>
-  <p align="center">
-    <br/>
-    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação »</strong></a>
-    <br/>
-</h1>
+</p>
+  <h1 align="center">Mangangaba Software</h1>
+    <p align="center">
+    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação</strong></a>
+    </p>
 </head>
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
-<br/>
-<br/>
-    <a href="http://mangangaba.com.br">Plataforma</a>
-  </p>
-</p>
+<a href="http://mangangaba.com.br">Plataforma</a>
 
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
 
