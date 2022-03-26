@@ -5,7 +5,7 @@
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
 </p>
 <head/>
-##
+\\
   <h1 align="center">Mangangaba Software</h1>
     <p align="center">
     <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação</strong></a>
