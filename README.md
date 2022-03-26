@@ -4,14 +4,18 @@
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
 </p>
+<head/>
+  
   <h1 align="center">Mangangaba Software</h1>
     <p align="center">
     <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação</strong></a>
     </p>
-</head>
+
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
+<br>
 <a href="http://mangangaba.com.br">Plataforma</a>
+</br>
 
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
 
@@ -138,7 +142,6 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
 `Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
 [Mangangaba](https://github.com/gu-lak) - *Mangangaba Software*
 mangangabasoftware@gmail.com
-http://mangangaba.com.br
   
 <body/>
     
@@ -151,8 +154,10 @@ http://mangangaba.com.br
 <a href="mailto:gulak@alunos.utfpr.edu.br">
   <img src="https://img.shields.io/badge/-gulak@alunos.utfpr.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
       
-<a href="https://instagram.com/ohgulak">
+<a href="https://instagram.com/mngngb_">
   <img src="https://img.shields.io/badge/-@ohgulak-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://www.behance.net/gulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+    
+http://mangangaba.com.br
