@@ -1,11 +1,10 @@
 <head>
 <p align="center">
-  <h1 align="center">Mangangaba Software</h3>
-    
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
-  
+
+  <h1 align="center">Mangangaba Software</h3>
   <p align="center">
 </h1>
 </head>
@@ -16,8 +15,8 @@ designers e referências em engenharia de software.
 <br/>
   <br/>
     <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação »</strong></a>
-    <br/>
-    <br/>
+  <br/>
+<br/>
     <a href="http://mangangaba.com.br">Plataforma</a>
   </p>
 </p>
