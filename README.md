@@ -6,16 +6,14 @@
 
   <h1 align="center">Mangangaba Software</h3>
   <p align="center">
+    <br/>
+    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação »</strong></a>
+    <br/>
 </h1>
 </head>
-
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
-
 <br/>
-  <br/>
-    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação »</strong></a>
-  <br/>
 <br/>
     <a href="http://mangangaba.com.br">Plataforma</a>
   </p>
