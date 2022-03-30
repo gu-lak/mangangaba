@@ -140,9 +140,7 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
 ## 8. Contate-nos
     
 `Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
-[Mangangaba](https://github.com/gu-lak/mangangaba)
-mangangabasoftware@gmail.com
-*Mangangaba*
+[*Mangangaba*](https://github.com/gu-lak/mangangaba)
   
 <body/>
     
@@ -152,8 +150,8 @@ mangangabasoftware@gmail.com
       <a href="https://linkedin.com/in/igoreduardogulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduardo%20%20Gulak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
-<a href="mailto:gulak@alunos.utfpr.edu.br">
-  <img src="https://img.shields.io/badge/-gulak@alunos.utfpr.edu.br-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mangangabasoftware@gmail.com">
+  <img src="https://img.shields.io/badge/-mangangabasoftware@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
       
 <a href="https://instagram.com/mngngb_">
   <img src="https://img.shields.io/badge/-@ohgulak-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -161,4 +159,4 @@ mangangabasoftware@gmail.com
 <a href="https://www.behance.net/gulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
     
-http://mangangaba.com.br
+https://www.mangangaba.com.br
