@@ -154,7 +154,7 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
   <img src="https://img.shields.io/badge/-mangangabasoftware@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
       
 <a href="https://instagram.com/mngngb_">
-  <img src="https://img.shields.io/badge/-@ohgulak-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-@mngngb_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 <a href="https://www.behance.net/gulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
