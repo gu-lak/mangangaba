@@ -140,8 +140,9 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
 ## 8. Contate-nos
     
 `Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
-[Mangangaba](https://github.com/gu-lak) - *Mangangaba Software*
+[Mangangaba](https://github.com/gu-lak)
 mangangabasoftware@gmail.com
+*Mangangaba*
   
 <body/>
     
