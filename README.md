@@ -1,26 +1,20 @@
 <head>
 <p align="left">
-<img align="left" src="https://github.com/gu-lak/mangangaba/tree/main/docs/general/graphics/html.png" alt="html5 icon"/>
-<img align="left" src="https://github.com/gu-lak/mangangaba/tree/main/docs/general/graphics/css.png" alt="css3 icon"/>
-<img align="left" src="https://github.com/gu-lak/mangangaba/tree/main/docs/general/graphics/javascript.png" alt="js icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
 </p>
 <head/>
-
 \\
   <h1 align="center">Mangangaba Software</h1>
-  
-<body>
-
     <p align="center">
       <br>
       <a href="http://mangangaba.com.br">Plataforma</a>
       |
-      <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#interpretacao"><strong>Leia a documentação</strong></a>
+      <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mangangaba-software"><strong>Leia a documentação</strong></a>
     </p>
-
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
-
 </br>
 
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
@@ -40,6 +34,8 @@ designers e referências em engenharia de software.
 Termos e Condições – Última atualização: 26 de março de 2022
 
 `Por favor, leia estes termos e condições cuidadosamente antes de usar nosso site.`
+
+<body>
 
 ## 1. Interpretação
     
