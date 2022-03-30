@@ -8,13 +8,15 @@
 \\
   <h1 align="center">Mangangaba Software</h1>
     <p align="center">
-    <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação</strong></a>
+      <br>
+      <a href="http://mangangaba.com.br">Plataforma</a>
+      |
+      <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mesa-de-conteudo"><strong>Leia a documentação</strong></a>
     </p>
 
 Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
 designers e referências em engenharia de software.
-<br>
-<a href="http://mangangaba.com.br">Plataforma</a>
+
 </br>
 
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
