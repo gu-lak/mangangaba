@@ -13,10 +13,10 @@
       |
       <a href="https://github.com/gu-lak/mangangaba/blob/main/README.md#mangangaba-software"><strong>Leia a documentação</strong></a>
     </p>
-Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no html/css/javascript, linguagens para desenvolvedores, web
-designers e referências em engenharia de software.
+Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no HyperText MarkUp Language, Cascading Style Sheets e
+JavaScript: linguagens para desenvolvedores, web-designers e referências em engenharia de software.
 </br>
-
+//
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
 
 ## Mesa de conteúdo
