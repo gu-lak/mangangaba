@@ -15,15 +15,17 @@
 ## :bulb:  Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-- HTML5
-- CSS3
-- Javascript
 
 <p align="left">
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
 </p>
+<br>
+- HTML5
+- CSS3
+- Javascript
+</br>
 
 <a id="gancho2"></a>
 ## :grapes:  Projeto
