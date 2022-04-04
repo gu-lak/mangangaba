@@ -120,19 +120,10 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
 `Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
 [*Mangangaba*](https://br.linkedin.com/in/igoreduardogulak)
     
-  <a href="https://twitter.com/intent/follow?screen_name=gul___99">
-    <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
-      <br>
-      <a href="https://www.linkedin.com/in/igoreduardogulak">
-  <img src="https://img.shields.io/badge/-Igor%20Eduardo%20%20Gulak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/intent/follow?screen_name=gul___99">
+  <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
 
 <a href="mailto:mangangabasoftware@gmail.com">
   <img src="https://img.shields.io/badge/-mangangabasoftware@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
       
-<a href="https://instagram.com/mngngb_">
-  <img src="https://img.shields.io/badge/-@mngngb_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
-<a href="https://www.behance.net/gulak">
-  <img src="https://img.shields.io/badge/-Igor%20Eduado%20Gulak-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-    
 https://www.mangangaba.com.br
