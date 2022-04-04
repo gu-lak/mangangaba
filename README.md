@@ -147,7 +147,7 @@ termos revisados. Se você não concordar com os novos termos, no todo ou em par
   <a href="https://twitter.com/intent/follow?screen_name=gul___99">
     <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
       <br>
-      <a href="https://linkedin.com/in/igoreduardogulak">
+      <a href="https://www.linkedin.com/in/igoreduardogulak">
   <img src="https://img.shields.io/badge/-Igor%20Eduardo%20%20Gulak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 <a href="mailto:mangangabasoftware@gmail.com">
