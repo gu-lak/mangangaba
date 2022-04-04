@@ -1,11 +1,3 @@
-<head>
-<p align="left">
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
-</p>
-<head/>
-
 <h1 align="center">
     :honeybee: Mangangaba
 </h1>
@@ -16,7 +8,7 @@
 <p align="center">
   <a href="#gancho1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gancho2">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gancho3">Colaboradores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gancho3">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <a id="gancho1"></a>
@@ -26,6 +18,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML5
 - CSS3
 - Javascript
+
+<p align="left">
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
+</p>
 
 <a id="gancho2"></a>
 ## :grapes:  Projeto
