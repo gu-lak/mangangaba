@@ -6,7 +6,7 @@
 </p>
 <head/>
 \\
-  <h1 align="center">Mangangaba Software</h1>
+  <h1 align="center">Mangangaba</h1>
     <p align="center">
       <br>
       <a href="http://mangangaba.com.br">Plataforma</a>
