@@ -10,22 +10,8 @@
     :honeybee: Mangangaba
 </h1>
 
-![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba)
-  
-  
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gu-lak/mangangaba">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gu-lak/mangangaba">
-
-  <a href="https://github.com/gu-lak/mangangaba/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gu-lak/mangangaba">
-  </a>
-
-  <a href="https://github.com/gulak/mangangaba/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/gu-lak/mangangaba">
-  </a>
-
+![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba) ![Repository Size](https://img.shields.io/github/repo-size/gu-lak/mangangaba) ![Last Commit](https://img.shields.io/github/last-commit/gu-lak/mangangaba)
+ 
 </p>
 <p align="center">
   <a href="#gancho1">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
