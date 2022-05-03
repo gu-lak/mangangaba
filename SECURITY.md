@@ -1,53 +1,51 @@
-Página-estática com boas práticas de mãos ligadas em produção típica de tecnologias elaboradas no HyperText MarkUp Language, Cascading Style Sheets e
-JavaScript: linguagens para desenvolvedores, web-designers e referências em engenharia de software.
+##
 
-* [Interpretação](#1-mesa-de-conteudo)
-* [Definições](#2-definições)
-* [Reconhecimento](#3-reconhecimento)
-* [Links](#4-links-para-outros-sites)
-* [Terminais](#5-terminação)
-* [Responsabilidade](#6-isenção-de-responsabilidade)
-* [Separabilidade](#7-divisibilidade)
-* [Renúncia](#8-renúncia)
-* [Comunicação](#9-contate-nos)
-    
-Termos e Condições – Última atualização: 04 de abril/2022.
+Página-estática com boas práticas de mãos ligadas em produção típica de HTML/CSS/JS: tecnologias para desenvolvedores de software, web-designers e engenheiros de software.
 
-`Por favor, leia estes termos e condições cuidadosamente antes de usar nosso site.`
+[Interpretação](#1) &nbsp;
+[Definições](#2) &nbsp;
+[Reconhecimento](#3) &nbsp;
+[Links](#4) &nbsp;
+[Terminais](#5) &nbsp;
+[Responsabilidade](#6) &nbsp;
+[Separabilidade](#7) &nbsp;
+[Renúncia](#8) &nbsp;
+[Comunicação](#9) &nbsp;
 
-## 1. Interpretação
-    
+Última atualização: 03 de maio/2022.
+
+&nbsp;
+
+## 1.
+        
+`Por favor, leia estes termos cuidadosamente antes de usar nosso site.`
+
 `As palavras cuja letra inicial é maiúscula têm significados definidos nas seguintes condições. As seguintes definições terão o mesmo significado,
 independentemente de aparecerem no singular ou no plural.`
 
-## 2. Definições
-    
-`Para efeitos destes termos e condições.`
+&nbsp;
 
+## 2.
+    
 `Afiliada significa uma entidade que controla, é controlada ou está sob controle comum com uma parte, onde "controle" significa propriedade de 50% ou mais
 das ações, participação acionária ou outros valores mobiliários com direito a voto para eleição de diretores ou outra autoridade administrativa.`
 
-`País se refere a: Brasil`
-
-`Empresa (referida como “Mangangaba”, "Plataforma", "Nós" ou "Nosso" neste "README.md") refere-se à Mangangaba.`
-
 `Dispositivo significa qualquer eletrônico que possa acessar o site, como um computador, um celular ou um tablet digital.`
-
-`Serviço refere-se ao site.`
-
-`Termos e condições (também referidos como "Termos") significam estes termos e condições que formam o acordo integral entre você e a plataforma em relação
-ao uso do serviço. Este contrato de termos e condições foi criado com a ajuda do modelo de termos e condições.`
 
 `Serviço de mídia social de terceiros significa qualquer serviço ou conteúdo (incluindo dados, informações, produtos ou serviços) fornecido por um terceiro
 que possa ser exibido, incluído ou disponibilizado pelo serviço.`
 
-`Site refere-se a Mangangaba, acessível em` http://www.mangangaba.com.br
-
 `Você significa o indivíduo acessando ou usando o serviço, ou a empresa ou outra entidade legal em nome da qual tal indivíduo está acessando ou usando o
 serviço, conforme aplicável.`
 
-## 3. Reconhecimento
-    
+`Website refere-se a Mangangaba, acessível em:` 
+
+:bee: [Versão do Cliente](http://www.mangangaba.com.br)
+
+&nbsp;
+
+## 3.
+   
 `Estes são os termos e condições que regem o uso deste serviço e o contrato que opera entre você e Mangangaba. Estes termos e condições estabelecem os
 direitos e obrigações de todos os usuários em relação ao uso do serviço.`
 
@@ -63,7 +61,10 @@ não poderá acessar o serviço.`
 descreve nossas políticas e procedimentos sobre a coleta, uso e divulgação de suas informações pessoais quando você usa o aplicativo ou o site e informa
 sobre seus direitos de privacidade e como a lei protege você. Por favor, leia nossa Política de Privacidade cuidadosamente antes de usar nosso site.`
 
-## 4. Links para outros sites
+&nbsp;
+
+## 4.
+
 `Nosso serviço pode conter links para sites ou serviços de terceiros que não são de propriedade ou controlados pela Mangangaba.`
 
 `Mangangaba não tem controle e não assume nenhuma responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de
@@ -72,13 +73,18 @@ causada por ou em conexão com o uso ou dependência de qualquer conteúdo, bens
 
 `Recomendamos vivamente que leia os termos e condições e as políticas de privacidade de quaisquer sites ou serviços de terceiros que visite.`
 
-## 5. Terminação
+&nbsp;
+
+## 5.
+
 `Podemos encerrar ou suspender seu acesso imediatamente, sem aviso prévio ou responsabilidade, por qualquer motivo, incluindo, sem limitação, se você
 violar estes termos e condições.`
 
 `Após a rescisão, seu direito de usar o serviço cessará imediatamente.`
 
-## 6. Isenção de responsabilidade
+&nbsp;
+
+## 6.
 
 `O serviço é prestado a você "COMO ESTÁ" e "CONFORME DISPONÍVEL" e com todas as falhas e defeitos sem garantia de qualquer tipo. Na extensão máxima
 permitida pela lei aplicável, a empresa, em seu próprio nome e em nome de suas afiliadas e seus respectivos licenciadores e prestadores de serviços,
@@ -105,25 +111,27 @@ outras leis locais, estaduais, nacionais ou internacionais.`
 `Se você tiver alguma dúvida ou disputa sobre o serviço, você concorda em primeiro tentar resolver a disputa informalmente entrando em contato com a
 empresa.`
 
-## 7. Divisibilidade
+&nbsp;
+
+## 7.
+
 `Se qualquer disposição destes termos for considerada inexequível ou inválida, tal disposição será alterada e interpretada para atingir os objetivos de tal
 disposição na medida do possível sob a lei aplicável e as disposições restantes continuarão em pleno vigor e efeito.`
 
-## 8. Renúncia
-`Exceto conforme previsto neste documento, a falha em exercer um direito ou exigir o cumprimento de uma obrigação sob estes Termos não afetará a capacidade
+&nbsp;
+
+## 8.
+
+`Exceto conforme previsto neste documento, a falha em exercer um direito ou exigir o cumprimento de uma obrigação sob estes termos não afetará a capacidade
 de uma parte de exercer tal direito ou exigir tal desempenho a qualquer momento posterior, nem a renúncia de uma violação constituirá uma renúncia de
 qualquer violação posterior. Ao continuar a acessar ou usar nosso serviço após essas revisões entrarem em vigor, você concorda em ficar vinculado aos 
 termos revisados. Se você não concordar com os novos termos, no todo ou em parte, pare de usar o site e o serviço.`
 
-## 9. Contate-nos
-    
-`Se você tiver alguma dúvida sobre estes termos e condições, você pode entrar em contato conosco:`
-[*Mangangaba*](https://br.linkedin.com/in/igoreduardogulak)
-    
-<a href="https://twitter.com/intent/follow?screen_name=gul___99">
-  <img src="https://img.shields.io/twitter/follow/gul___99.svg?label=Follow%20@gul___99" alt="Follow @gul___99"/>
+&nbsp;
 
+## 9.
+    
+`Se você tiver alguma dúvida sobre estes termos, você pode entrar em contato conosco:`
+    
 <a href="mailto:mangangabasoftware@gmail.com">
   <img src="https://img.shields.io/badge/-mangangabasoftware@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-      
-https://www.mangangaba.com.br
