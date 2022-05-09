@@ -17,9 +17,9 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="left">
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="33" alt="html5 icon"/>
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="33" alt="css3 icon"/>
-<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="33" alt="js icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/html-5.svg" height="25" alt="html5 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/css-3.svg" height="25" alt="css3 icon"/>
+<img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
 &nbsp;
 </p>
 
@@ -29,7 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :grapes:  Projeto
 Plataforma digital da Mangangaba. A proposta foi construir um site utilizando apenas HTML, CSS e Javascript, sem a utilização de plugins ou frameworks.
 
-<strong>Link para o projeto: https://mangangaba.com.br</strong> 
+<strong>Link para o projeto:</strong> <br>
+[Mangangaba](https://mangangaba.com.br) 
 
 &nbsp;
 
@@ -37,3 +38,5 @@ Plataforma digital da Mangangaba. A proposta foi construir um site utilizando ap
 ## :busts_in_silhouette: Colaboradores
 
 - [Igor Eduardo Gulak](https://github.com/gu-lak) ;&nbsp;
+
+<br>
