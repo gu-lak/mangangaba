@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/gu-lak/mangangaba#bulb--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gu-lak/mangangaba#grapes--projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href=https://github.com/Mangangaba>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
 ## :grapes:  Projeto
-Plataforma digital da Mangangaba. A proposta foi construir um site utilizando HTML, CSS, SASS e Javascript.
+Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5, CSS3 e SASS.
 
 <img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
 
