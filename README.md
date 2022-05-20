@@ -1,13 +1,13 @@
 <h1 align="center">
-    :honeybee: Mangangaba
+    :honeybee:
 </h1>
 
 ![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba) ![Repository Size](https://img.shields.io/github/repo-size/gu-lak/mangangaba) ![Last Commit](https://img.shields.io/github/last-commit/gu-lak/mangangaba)
  
 </p>
 <p align="center">
-  <a href="https://github.com/gu-lak/mangangaba#bulb--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href=https://github.com/Mangangaba>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gu-lak/mangangaba#bulb--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
