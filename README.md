@@ -11,6 +11,18 @@
   <a href="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
+## :grapes:  Projeto
+Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5, CSS3 e SASS.
+
+<img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
+
+
+<strong>Link para o projeto:</strong> <br>
+[Mangangaba](https://mangangaba.com.br) 
+
+&nbsp;
+
 <a id="https://github.com/gu-lak/mangangaba#bulb--tecnologias"></a>
 ## :bulb:  Tecnologias 
 
@@ -26,18 +38,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 <br>
-
-<a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
-## :grapes:  Projeto
-Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5, CSS3 e SASS.
-
-<img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
-
-
-<strong>Link para o projeto:</strong> <br>
-[Mangangaba](https://mangangaba.com.br) 
-
-&nbsp;
 
 <a id="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores"></a>
 ## :busts_in_silhouette: Colaboradores
