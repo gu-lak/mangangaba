@@ -13,7 +13,7 @@
 
 <a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
 ## :grapes:  Projeto
-Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5, CSS3 e SASS.
+Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5 e CSS3 com SASS / SCSS.
 
 <img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
 
