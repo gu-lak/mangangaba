@@ -2,18 +2,17 @@
     :honeybee:
 </h1>
 
-![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba) ![Repository Size](https://img.shields.io/github/repo-size/gu-lak/mangangaba) ![Last Commit](https://img.shields.io/github/last-commit/gu-lak/mangangaba)
- 
-</p>
+![Contributors](https://img.shields.io/github/contributors/gu-lak/mangangaba?color=dark-green) ![Forks](https://img.shields.io/github/forks/gu-lak/mangangaba?style=social) ![Stargazers](https://img.shields.io/github/stars/gu-lak/mangangaba?style=social) ![Webhosting](https://img.shields.io/website-up-down-green-red/http/monip.org.svg) ![Issues](https://img.shields.io/github/issues/gu-lak/mangangaba) ![Repository Size](https://img.shields.io/github/repo-size/gu-lak/mangangaba) ![Last Commit](https://img.shields.io/github/last-commit/gu-lak/mangangaba)
+
 <p align="center">
   <a href=https://github.com/Mangangaba>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gu-lak/mangangaba#bulb--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/orgs/Mangangaba/people">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
 ## :grapes:  Projeto
-Plataforma digital da Mangangaba. A proposta de construir um site utilizando JavaScript, HTML5 e CSS3 com SASS / SCSS.
+Plataforma digital da Mangangaba.
 
 <img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
 
@@ -45,3 +44,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Igor Eduardo Gulak](https://github.com/gu-lak) ;&nbsp;
 
 <br>
+
