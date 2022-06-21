@@ -7,12 +7,12 @@
 <p align="center">
   <a href=https://github.com/Mangangaba>Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/gu-lak/mangangaba#bulb--tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/orgs/Mangangaba/people">Colaboradores</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/orgs/Mangangaba/people">Curadoria</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <a id="https://github.com/gu-lak/mangangaba#grapes--projeto"></a>
-## :grapes:  Projeto
-Plataforma digital da Mangangaba.
+## :pencil:  Projeto
+Plataforma digital.
 
 <img align="left" src="https://github.com/mariabarkouzou/Create-An-Awesome-README.md-File/blob/main/SVG%20Icons/Social%20Media%20SVG%20Icons/website.svg" height="50" alt="application"/>
 
@@ -25,7 +25,7 @@ Plataforma digital da Mangangaba.
 <a id="https://github.com/gu-lak/mangangaba#bulb--tecnologias"></a>
 ## :bulb:  Tecnologias 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Essa aplicação é desenvolvida em:
 
 <p align="left">
     <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/javascript.svg" height="25" alt="js icon"/>
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 <a id="https://github.com/gu-lak/mangangaba#busts_in_silhouette-colaboradores"></a>
-## :busts_in_silhouette: Colaboradores
+## :busts_in_silhouette: Curadoria
 
 - [Igor Eduardo Gulak](https://github.com/gu-lak) ;&nbsp;
 
